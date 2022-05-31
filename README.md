@@ -1,8 +1,11 @@
 # Hotel-Booking-Program
 
 Submitted By:
+
 Muhammad Bilal
+
 Rana Nameer 
+
 Muhammad Omer Qasim
 
 Main code is present in code.java file.
